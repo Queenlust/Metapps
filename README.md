@@ -6,8 +6,9 @@ Metapps é um aplicativo de linha de comando simples e eficiente para te ajudar 
 
 ## Instalação
 1. **Clone o repositório:**
-   ```bash
+```bash
    git clone https://github.com/Queenlust/Metapps
+```
    
 2. Instale as dependências:
 ```bash
