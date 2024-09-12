@@ -1,7 +1,7 @@
 ## Metapps Seu Gerenciador de Metas Pessoal
 Projeto desenvolvido durante a trilha da NLW Pocket (iniciante) Edição 17
 
-## Descrição
+# Descrição
 Metapps é um aplicativo de linha de comando simples e eficiente para te ajudar a organizar e acompanhar suas metas.
 
 ## Instalação
@@ -15,7 +15,7 @@ cd metapps
 npm install
 ```
 
-**Como Utilizar**
+# Como Utilizar
 Para iniciar o aplicativo, execute o seguinte comando na raiz do projeto:
 ```bash
 node index.js
@@ -28,10 +28,10 @@ Você será apresentado a um menu com as seguintes opções:
 - Deletar meta: Remove uma meta da sua lista.
 - Sair: Encerra o aplicativo.
 
-**Tecnologias usadas para o projeto**
+# Tecnologias usadas para o projeto
 - JavaScript
 
-**Contribuindo** 
+# Contribuindo
 Contribuições são bem-vindas! Para contribuir com este projeto, siga estes passos:
 
 - Fork este repositório.
@@ -39,10 +39,9 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estes pa
 - Faça suas alterações e commit.
 - Envie um pull request.
 
-Licença
+# Licença
 Este projeto está licenciado pela REALMs LTDA.   
 
-Autor
-Queenlust
+Autor: Queenlust
 
 
