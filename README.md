@@ -1,7 +1,7 @@
 # Metapps Seu Gerenciador de Metas Pessoal
 Projeto desenvolvido durante a trilha da NLW Pocket (iniciante) Edição 17
 
-## Descrição
+### Descrição
 Metapps é um aplicativo de linha de comando simples e eficiente para te ajudar a organizar e acompanhar suas metas.
 
 ## Instalação
