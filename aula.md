@@ -1,6 +1,6 @@
 ## Linguagem de programção 
-maneira de dar instrução ao computador
-Sera feita peça por peça para criar o algoritmo, ou seja resolver problemas
+Maneira de dar instrução ao computador
+Sera feita o processamento linha por linha para criar o algoritmo ou seja resolver problemas
 **Algortimo** Sequencia de passos logicos e finita para resolução de um problema
 
 ## Peças de uma linguagem
